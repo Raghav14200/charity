@@ -301,6 +301,10 @@ nav {
     flex-direction: column;
   }
 
+  .card {
+    margin-bottom: 20px;
+  }
+
   .info h1 {
     font-size: 32px;
   }
