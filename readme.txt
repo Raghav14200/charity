@@ -1,1 +1,1 @@
-Open index.html present in html folder to view the project
+Open index.html to view the project

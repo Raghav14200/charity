@@ -392,8 +392,8 @@ nav {
   }
 }
 
-@media screen and (max-width: "550px") {
-  .banner div {
+@media screen and (max-width: 550px) {
+  .banner > div {
     width: calc(100vw);
   }
 }
